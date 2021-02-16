@@ -9,7 +9,7 @@ The original presentation given at the talk is available here: https://drive.goo
 I am providing the resources featured during the session here: https://docs.google.com/document/d/1S6TIDOZ4dlwdMwDdvqKPKKl9tPBzjtYFrMyr-RaeM3c/edit?usp=sharing
 
 ## Slides
-The slides are available in PDF format here: **[GitHub Recon — and what you can achieve with it!.pdf](/GitHub Recon — and what you can achieve with it!.pdf)**
+The slides are available in PDF format here: **[GitHub Recon — and what you can achieve with it!.pdf](/GitHub%20Recon%20—%20and%20what%20you%20can%20achieve%20with%20it!.pdf)**
 
 ## Some Important Slides
 
