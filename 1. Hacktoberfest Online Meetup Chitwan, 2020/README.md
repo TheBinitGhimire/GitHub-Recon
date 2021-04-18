@@ -3,6 +3,9 @@
 ### Event Page: https://organize.mlh.io/participants/events/5686-hacktoberfest-online-meetup-chitwan-2020
 ### Event Date: October 20, 2020
 
+## Presentation
+The slides can be viewed [here](slides.pdf).
+
 ## Resources
 - Some Amazing GitHub Dorks: https://github.com/techgaun/github-dorks
 - Keywords to search for: https://github.com/random-robbie/keywords/blob/master/keywords.txt
