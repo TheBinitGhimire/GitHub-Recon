@@ -2,26 +2,37 @@
 
 ### GitHub Recon — and what you can achieve with it!
 
-This repository is about my talk at **Hacktoberfest Chitwan 2020** on "**GitHub Recon — and what you can achieve with it!**".
+"**GitHub Recon — and what you can achieve with it!**", or simply "**GitHub Recon**", is a topic on which I usually give talks at different events. The contents being presented and demonstrated at each event might be similar, same or updated from the predecessor event/s.
 
-The original presentation given at the talk is available here: https://drive.google.com/file/d/1EwYmulb-NVAkRAn6-IQx5Hw9oiRTau-t/view?usp=sharing
+This repository is built to provide the resources focused into my talks on this topic at every event.
 
-I am providing the resources featured during the session here: https://docs.google.com/document/d/1S6TIDOZ4dlwdMwDdvqKPKKl9tPBzjtYFrMyr-RaeM3c/edit?usp=sharing
+***
 
-## The Talk: "GitHub Recon — and what you can achieve with it!"
-### Watch on YouTube: https://youtu.be/_TeNVnbk7Xs
-[![GitHub Recon — and what you can achieve with it!](https://i.ytimg.com/vi/_TeNVnbk7Xs/maxresdefault.jpg)](https://youtu.be/_TeNVnbk7Xs)
+## Events
+*Latest ones at the top!*
+* **[null Ahmedabad Meet 18 April 2021 Monthly Meet](https://null.community/events/785-ahmedabad-monthly-meet)** - April 18 2021
+* **[Hacktoberfest Online Meetup Chitwan, 2020](https://youtu.be/_TeNVnbk7Xs)** - October 20, 2020
 
-## Slides
-The slides are available in PDF format here: **[GitHub Recon — and what you can achieve with it!.pdf](/GitHub%20Recon%20—%20and%20what%20you%20can%20achieve%20with%20it!.pdf)**
+You can find out the resources for each event in their respective directory in this repository.
+
+***
+
+## Presentations
+
+| Event | Presentation | Video | Resources |
+|------------------------------------------|
+| null Ahmedabad Meet 18 April 2021 Monthly Meet | https://drive.google.com/file/d/1iJt235y1iEhDVvFw7wdjw9XEoVNocaqE/view?usp=sharing | https://youtu.be/1olCbbuVXSY |  |
+| Hacktoberfest Online Meetup Chitwan, 2020 |  | https://drive.google.com/file/d/1EwYmulb-NVAkRAn6-IQx5Hw9oiRTau-t/view?usp=sharing | https://youtu.be/_TeNVnbk7Xs |  |
+
+***
 
 ## Some Important Slides
 
 ### GitHub Dorks for Recon
-![GitHub Dorks for Recon](/slides/9.png)
+![GitHub Dorks for Recon]()
 
 ### Sample Keywords to search for
-![Sample Keywords to search for](/slides/10.png)
+![Sample Keywords to search for]()
 
 ## Resources
 - **Some Amazing GitHub Dorks**: https://github.com/techgaun/github-dorks
@@ -31,6 +42,7 @@ The slides are available in PDF format here: **[GitHub Recon — and what you ca
 - **Removing sensitive data from a repository**: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/removing-sensitive-data-from-a-repository
 
 ## Automated GitHub Recon
+- **wraith**: https://github.com/N0MoreSecr3ts/wraith
 - **GitRob**: https://github.com/michenriksen/gitrob
 - **TruffleHog**: https://github.com/dxa4481/truffleHog
 - **Git-Secrets**: https://github.com/awslabs/git-secrets
