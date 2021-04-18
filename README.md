@@ -29,10 +29,10 @@ You can find out the resources for each event in their respective directory in t
 ## Some Important Slides
 
 ### GitHub Dorks for Recon
-![GitHub Dorks for Recon]()
+![GitHub Dorks for Recon](assets/GitHub%20Dorks%20for%20Recon.png)
 
 ### Sample Keywords to search for
-![Sample Keywords to search for]()
+![Sample Keywords to search for](assets/Sample%20Keywords%20to%20search%20for.png)
 
 ## Resources
 - **Some Amazing GitHub Dorks**: https://github.com/techgaun/github-dorks
