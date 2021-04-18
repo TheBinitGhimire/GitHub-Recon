@@ -21,8 +21,8 @@ You can find out the resources for each event in their respective directory in t
 
 | Event | Presentation | Video | Resources |
 |-------|--------------|-------|-----------|
-| null Ahmedabad Meet 18 April 2021 Monthly Meet | [View Here!](https://drive.google.com/file/d/1iJt235y1iEhDVvFw7wdjw9XEoVNocaqE/view?usp=sharing) | [Watch Here!](https://youtu.be/1olCbbuVXSY?t=332) |  |
-| Hacktoberfest Online Meetup Chitwan, 2020 | [View Here!](https://drive.google.com/file/d/1EwYmulb-NVAkRAn6-IQx5Hw9oiRTau-t/view?usp=sharing) | [Watch Here!](https://youtu.be/_TeNVnbk7Xs) |  |
+| null Ahmedabad Meet 18 April 2021 Monthly Meet | [View Here!](https://drive.google.com/file/d/1iJt235y1iEhDVvFw7wdjw9XEoVNocaqE/view?usp=sharing) | [Watch Here!](https://youtu.be/1olCbbuVXSY?t=332) | [Find Here!](2.%20null%20Ahmedabad%20Meet%2018%20April%202021%20Monthly%20Meet) |
+| Hacktoberfest Online Meetup Chitwan, 2020 | [View Here!](https://drive.google.com/file/d/1EwYmulb-NVAkRAn6-IQx5Hw9oiRTau-t/view?usp=sharing) | [Watch Here!](https://youtu.be/_TeNVnbk7Xs) | [Find Here!](1.%20Hacktoberfest%20Online%20Meetup%20Chitwan%2C%202020) |
 
 ***
 
